@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="titulo">Notas del curso</string>
+    <string name="nota1">Practicas 60%</string>
+    <string name="nota2">Avance 1 5%</string>
+    <string name="nota3">Avance 2 7%</string>
+    <string name="nota4">Avance 3 8%</string>
+    <string name="nota5">App final 20%</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="nota">nota</string>
+</resources>

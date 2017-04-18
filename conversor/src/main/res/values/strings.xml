@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="titulo">Conversor de Divisas</string>
+    <string name="pesos">COP</string>
+    <string name="dolares">USD</string>
+    <string name="convertir">Convertir</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
